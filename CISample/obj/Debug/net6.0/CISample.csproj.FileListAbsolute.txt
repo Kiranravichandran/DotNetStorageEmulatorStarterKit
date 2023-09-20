@@ -1,5 +1,0 @@
-C:\Users\Kiran\source\repos\CISample\CISample\obj\Debug\net6.0\CISample.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kiran\source\repos\CISample\CISample\obj\Debug\net6.0\CISample.AssemblyInfoInputs.cache
-C:\Users\Kiran\source\repos\CISample\CISample\obj\Debug\net6.0\CISample.AssemblyInfo.cs
-C:\Users\Kiran\source\repos\CISample\CISample\obj\Debug\net6.0\CISample.csproj.CoreCompileInputs.cache
-C:\Users\Kiran\source\repos\CISample\CISample\obj\Debug\net6.0\CISample.MvcApplicationPartsAssemblyInfo.cache
